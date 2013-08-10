@@ -1,0 +1,22 @@
+#Java stuff
+
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+#Maven stuff
+
+target/
+
+#Eclipse stuff
+
+.project
+.metadata
+.classpath
+.settings/
+
+#Images
+*.jpg
